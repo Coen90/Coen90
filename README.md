@@ -1,3 +1,9 @@
-<a href="https://app.gitpokecol.org">
-  <img src="https://gitpokecol.org/pokemons/Coen90" alt="{username}'s GitHub Pokemon Collection"/>
-</a>
+<div align="center">
+  <a href="https://github.com/devxb/gitanimals">
+    <img
+      src="https://render.gitanimals.org/farms/Coen90"
+      width="600"
+      height="300"
+    />
+  </a>
+</div>
