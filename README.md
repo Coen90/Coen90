@@ -16,7 +16,7 @@ Chaos engineering platform for Kubernetes.
   [#5478](https://github.com/litmuschaos/litmus/pull/5478), 
   [#5483](https://github.com/litmuschaos/litmus/pull/5483)
 
-#### [Spring Batch](https://github.com/spring-projects/spring-batch) (⭐ 2.5k)
+#### [Spring Batch](https://github.com/spring-projects/spring-batch) (⭐ 2.9k)
 - **Docs cleanup** — Removed references to deprecated JUnit 4 from 
   the testing documentation. 
   → [PR #4835](https://github.com/spring-projects/spring-batch/pull/4835)
