@@ -19,3 +19,7 @@ Chaos engineering platform for Kubernetes.
 #### [Spring Batch](https://github.com/spring-projects/spring-batch) (⭐ 2.9k)
 - **Docs cleanup** — Removed references to deprecated JUnit 4 from 
   the testing documentation. - [PR #4835](https://github.com/spring-projects/spring-batch/pull/4835)
+
+### 🎤 Talks
+
+- **Contributing to LitmusChaos through the OSSCA Mentorship** (in English) — Shared my contribution journey (routing bug fix, RBAC validation fix) at LitmusChaos Community Meeting #63, as part of the 2026 Korea Mentorship team presentation. - [▶ Watch](https://youtu.be/Sdp76O1xEwc?t=585)
