@@ -22,4 +22,4 @@ Chaos engineering platform for Kubernetes.
 
 ### 🎤 Talks
 
-- **Contributing to LitmusChaos through the OSSCA Mentorship** (in English) — Shared my contribution journey (routing bug fix, RBAC validation fix) at LitmusChaos Community Meeting #63, as part of the 2026 Korea Mentorship team presentation. - [▶ Watch](https://youtu.be/Sdp76O1xEwc?t=585)
+- **Contributing to LitmusChaos through the OSSCA Mentorship** - [▶ Watch](https://youtu.be/Sdp76O1xEwc?t=585)
