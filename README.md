@@ -21,5 +21,4 @@ Chaos engineering platform for Kubernetes.
   the testing documentation. - [PR #4835](https://github.com/spring-projects/spring-batch/pull/4835)
 
 ### 🎤 Talks
-
-- **Contributing to LitmusChaos through the OSSCA Mentorship** - [▶ Watch](https://youtu.be/Sdp76O1xEwc?t=585)
+- **Contributing to LitmusChaos through the OSSCA Mentorship** (in English) — at LitmusChaos Community Meeting #63, part of the Korea Mentorship team presentation - [▶ Watch](https://youtu.be/Sdp76O1xEwc?t=585)
