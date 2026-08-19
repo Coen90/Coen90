@@ -4,10 +4,11 @@ Backend engineer with 5 years of experience, focused on building reliable server
 
 ### 🌱 Open Source Contribution
 
-#### [Apache Zeppelin](https://github.com/apache/zeppelin) (ASF · ⭐ 6.6k)
+#### [Apache Zeppelin](https://github.com/apache/zeppelin) (ASF · ⭐ 6.7k)
 Web-based notebook for interactive data analytics.
 
 - **Notebook folder move bug** — Fixed `FileSystemNotebookRepo.move()` creating the parent directory of the source folder instead of the destination, which caused folder moves to fail when the destination parent did not exist. - [PR #5283](https://github.com/apache/zeppelin/pull/5283)
+- **NotebookRepo interface refactoring** — Centralized duplicated placeholder `getSettings`/`updateSettings` code across seven `NotebookRepo` implementations into `default` interface methods, keeping third-party implementations source- and binary-compatible. - [PR #5411](https://github.com/apache/zeppelin/pull/5411)
 
 #### [LitmusChaos](https://github.com/litmuschaos/litmus) (CNCF · ⭐ 5.4k)
 Chaos engineering platform for Kubernetes.
